@@ -4,7 +4,7 @@
 			<h1> Helllloooooo!!!!1</h1>
 			<td width="23" rowspan="2">&nbsp;</td>
 			<td height="119" colspan="2" bgcolor="#006600">
-				<h1><center><font color="#FFFFFF">นิตตะอพาร์ตเมนท์</font></center></h1>
+				<h1><center><font color="#FFFFFF">เบญๆอพาร์ตเมนท์</font></center></h1>
 				<?php include "Date.php";?>
 			</td>
 			<td width="43" rowspan="2">&nbsp;</td>
